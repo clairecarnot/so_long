@@ -1,0 +1,2 @@
+- Protection ft_strdup
+- Protection edge case : no valid path when a collect is only reachable via the Exit
